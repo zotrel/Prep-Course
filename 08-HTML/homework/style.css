@@ -1,0 +1,19 @@
+<style> 
+
+head {background-color: rgb(255, 205, 248);}
+h1 { color: chocolate;
+}
+div { justify-content: center;}
+img {width: 400px;
+
+}
+.thirdDiv 
+    {width: 500px;
+    height: 600px;
+    background-color: coral ;
+    padding: 50px;
+     border: 8px;color:bisque;width: 10px;}
+.spanID 
+    {font-size: 18px;
+    margin-block-end: 50px;}
+</style>
