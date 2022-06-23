@@ -1,8 +1,11 @@
 <style> 
-
-head {background-color: rgb(255, 205, 248);}
-h1 { color: chocolate;
+title, h1  { color: chocolate;
 }
+head {background-color: rgb(255, 205, 248);}
+body {background-color: blueviolet;
+margin-top: 30px;
+margin-bottom: 30px;
+background-image img";}
 div { justify-content: center;}
 img {width: 400px;
 
@@ -14,6 +17,6 @@ img {width: 400px;
     padding: 50px;
      border: 8px;color:bisque;width: 10px;}
 .spanID 
-    {font-size: 18px;
+    {font-size: 25px;
     margin-block-end: 50px;}
 </style>
